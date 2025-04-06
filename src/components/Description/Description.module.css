@@ -1,0 +1,20 @@
+.description {
+    background-color: #c1f096;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #3e3e3e;
+    font-size: 2,5rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #555;
+    font-size: 1.2rem;
+  }
